@@ -45,7 +45,7 @@ $jsonFlex = [
           ],
           [
             "type" => "text",
-            "text" => "2019.02.14 21:47 (GMT+0700)",
+            "text" => /*"2019.02.14 21:47 (GMT+0700)"*/date("Y-m-d"),
             "size" => "xs",
             "color" => "#B2B2B2"
           ],
